@@ -1,0 +1,5 @@
+[data-magellan] a {
+  color: #333; }
+  [data-magellan] a.active, [data-magellan] a.active:focus {
+    background: #333;
+    color: #fff; }
